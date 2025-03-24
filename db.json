@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Chaise de bureau ergonomique",
+      "price": 192.99,
+      "description": "Chaise de bureau confortable avec support lombaire.",
+      "category": "meubles",
+      "image": "https://via.placeholder.com/150",
+      "id": "58a094d2-08b1-4e9d-a3ab-f1504ba9205a"
+    },
+    {
+      "title": "Lampe de table moderne",
+      "price": "45.00",
+      "description": "Lampe de table avec design moderne et éclairage LED.",
+      "category": "éclairage",
+      "image": "https://via.placeholder.com/150",
+      "id": "0149c94b-9ef5-429c-8021-1af6597712be"
+    },
+    {
+      "title": "Casque audio sans fil",
+      "price": "89.99",
+      "description": "Casque audio avec réduction de bruit et autonomie de 20 heures.",
+      "category": "électronique",
+      "image": "https://via.placeholder.com/150",
+      "id": "941d37ad-bd8c-4868-86c5-37a9811ab159"
+    },
+    {
+      "title": "Montre connectée",
+      "price": "129.99",
+      "description": "Montre connectée avec suivi de la condition physique et notifications.",
+      "category": "électronique",
+      "image": "https://via.placeholder.com/150",
+      "id": "d8c7ec0a-4a37-45ba-893f-be27e6787c9d"
+    },
+    {
+      "title": "Sac à dos de randonnée",
+      "price": "59.99",
+      "description": "Sac à dos résistant à l'eau avec plusieurs compartiments.",
+      "category": "sport",
+      "image": "https://via.placeholder.com/150",
+      "id": "65dcf971-cc7f-479f-abd0-12313492d7d1"
+    },
+    {
+      "title": "Machine à café",
+      "price": "79.99",
+      "description": "Machine à café avec broyeur intégré et fonction de programmation.",
+      "category": "électroménager",
+      "image": "https://via.placeholder.com/150",
+      "id": "a0347c15-4f71-47f6-adc7-ddd94e4dabfa"
+    }
+  ]
+}

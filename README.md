@@ -13,6 +13,10 @@ use lorem ipsum data or create a JSON file from the base. I didn't find any onli
 to return semi-real shop data instead of lorem ipsum data.
 so I decided to create this simple web service with NodeJs(express) and MongoDB as a database.
 
+## Start server
+npm i
+npx json-server --watch db.json 
+
 ## Resources
 
 There are 4 main resources need in shopping prototypes:

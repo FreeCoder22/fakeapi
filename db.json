@@ -1,22 +1,6 @@
 {
   "products": [
     {
-      "title": "Chaise de bureau ergonomique",
-      "price": 192.99,
-      "description": "Chaise de bureau confortable avec support lombaire.",
-      "category": "meubles",
-      "image": "https://via.placeholder.com/150",
-      "id": "58a094d2-08b1-4e9d-a3ab-f1504ba9205a"
-    },
-    {
-      "title": "Lampe de table moderne",
-      "price": "45.00",
-      "description": "Lampe de table avec design moderne et éclairage LED.",
-      "category": "éclairage",
-      "image": "https://via.placeholder.com/150",
-      "id": "0149c94b-9ef5-429c-8021-1af6597712be"
-    },
-    {
       "title": "Casque audio sans fil",
       "price": "89.99",
       "description": "Casque audio avec réduction de bruit et autonomie de 20 heures.",
